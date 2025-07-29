@@ -6,7 +6,8 @@
 - Virtual Photographer
 
 ### Personal Projects
-Currently working on a personal world-building app for authors
+- Currently working on a personal world-building app for authors: https://github.com/xSparkYZ/WorldbuildingApp<br/>
+- Battleship game with JavaScript: https://xsparkyz.github.io/Battleship/
 
 ### Programming languages:
 - Java
