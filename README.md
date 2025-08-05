@@ -5,11 +5,13 @@
 - Fantasy Writer<br/>
 - Virtual Photographer
 
-### Personal Projects
-- Currently working on a personal world-building app for authors: https://github.com/xSparkYZ/WorldbuildingApp<br/>
+## Personal Projects
+### Work In Progress:
+- Personal world-building app for authors: https://github.com/xSparkYZ/WorldbuildingApp<br/>
+### Finished
 - Battleship game with JavaScript: https://xsparkyz.github.io/Battleship/
 
-### Programming languages:
+## Programming languages:
 - Java
 - JavaScript
 - HTML/CSS
